@@ -1,5 +1,5 @@
 # getmac
-Simple Dockerized tool to resolve physical address to name of the company it is belonged to.
+Simple Dockerized tool to resolve physical network address to the name of company it is belonged to.
 
 This is Docker example show how to parse the environment parameter to Docker container and execute default action.
 
