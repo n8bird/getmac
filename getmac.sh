@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MYAPIKEY="YOUAPIKEY"
+MYAPIKEY="YOURAPIKEY"
 
 [[ ! -z "$MAC" ]]  && {
 
