@@ -1,3 +1,4 @@
+## testowanie github connection
 FROM ubuntu:latest
 
 USER 0
