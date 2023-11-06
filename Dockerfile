@@ -1,4 +1,5 @@
 ## testowanie github connection
+## testowanie podpisu gpg2
 FROM ubuntu:latest
 
 USER 0
